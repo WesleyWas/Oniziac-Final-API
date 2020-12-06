@@ -1,0 +1,30 @@
+name: FinalAPI
+author: Weswaas
+version: 1.2
+main: com.weswaas.api.Main
+commands:
+  color:
+  report:
+  lag:
+    aliases: [ms, ping]
+  list:
+  hub:
+    aliases: [lobby]
+  me:
+  plugins:
+    aliases: [pl]
+  stop:
+  help:
+  ?:
+  kill:
+  give:
+  message:
+    description: Talk with another player
+    aliases: [msg, w]
+  reply:
+    description: Reply to another player
+    aliases: [r]
+  poll:
+    description: Create polls!
+  discord:
+    description: Join the Discord Server!
